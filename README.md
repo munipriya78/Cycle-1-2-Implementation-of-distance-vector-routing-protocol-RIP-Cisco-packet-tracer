@@ -5,12 +5,10 @@
 ## 📌 TITLE  
 **Implementation of Distance Vector Routing Protocol (RIP)**
 
----
 
 ## 🎯 AIM  
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 
----
 
 ## 🛠️ EQUIPMENTS REQUIRED
 
@@ -43,10 +41,11 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 ---
 
 ## 🗺️ NETWORK DIAGRAM  
-*(Insert diagram or screenshot from Packet Tracer)*
+
 
 ---
-<img width="1082" height="423" alt="image" src="https://github.com/user-attachments/assets/c87b4e16-a5ab-4f20-acba-4140468d3b4d" />
+<img width="1046" height="561" alt="image" src="https://github.com/user-attachments/assets/0cd27e5d-0f81-4a88-8a2b-86d6459f9c5f" />
+
 
 ## 🧭 PROCEDURE
 
